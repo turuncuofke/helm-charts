@@ -3,6 +3,30 @@ entries:
   wiremock:
   - apiVersion: v2
     appVersion: 3.10.0
+    created: "2025-02-25T06:39:02.885016748Z"
+    description: A Helm chart for WireMock deployment on Kubernetes
+    digest: e9335f7228690dc8511e747303e4316e148905c8
+    home: https://wiremock.org
+    icon: https://wiremock.org/images/logos/wiremock/logo_square.svg
+    keywords:
+    - wiremock
+    - api
+    - openapi
+    - api-testing
+    - rest-api
+    - api-mocking
+    maintainers:
+    - name: turuncuofke
+      url: https://github.com/turuncuofke
+    name: wiremock
+    sources:
+    - https://github.com/turuncuofke/helm-charts
+    type: application
+    urls:
+    - https://github.com/turuncuofke/helm-charts/archive/refs/tags/wiremock-1.5.0.tar.gz
+    version: 1.5.0
+  - apiVersion: v2
+    appVersion: 3.10.0
     created: "2024-12-04T06:39:02.885016748Z"
     description: A Helm chart for WireMock deployment on Kubernetes
     digest: 9cbe44f02c80d574657ae9275f5e025b9da54164d8cc086f35d9cc16c15db44e
