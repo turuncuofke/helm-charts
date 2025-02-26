@@ -23,7 +23,7 @@ entries:
     - https://github.com/turuncuofke/helm-charts
     type: application
     urls:
-    - https://github.com/turuncuofke/helm-charts/archive/refs/tags/wiremock-1.5.0.tar.gz
+    - https://github.com/turuncuofke/helm-charts/releases/download/wiremock-1.5.0/wiremock-1.5.0.zip
     version: 1.5.0
   - apiVersion: v2
     appVersion: 3.10.0
